@@ -1,0 +1,69 @@
+
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.color-text{
+    color:#025157;
+}
+
+button{
+    font-weight: 500 !important;
+}
+
+.bg-color{
+    background-color: #025157 !important;
+    color:white !important;
+}
+
+.bg-color:hover{
+    background-color: #6abf4b;
+    color: white;
+}
+
+.bg-color-banner{
+    background-color:  #6abf4b;
+    height: 50px;
+    width: 150px;
+    color:white !important;
+}
+
+.space-element{
+    margin: 0px 10px;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.banner-paragraph{
+    color: grey;
+    font-size: 17px;
+    margin: 50px 0px 20px 0px;
+}
+
+#actions-banner{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 25%;
+}
+
+.note{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color:#4a4a4a;
+    font-weight: 200;
+    opacity: 0.8;
+}
+
+.margin-ecommerce-brands{
+    margin: 30px 200px;
+    display: flex;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 20px;
+}
